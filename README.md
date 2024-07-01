@@ -3,8 +3,9 @@
 In an era where staying connected is paramount, configuring your Spectrum Roadrunner email on mobile devices ensures seamless communication and access to your inbox on the go. Roadrunner, a service provided by Spectrum, offers robust email functionalities, and setting it up on your mobile device requires a few straightforward steps tailored for 2024's technological landscape.
 
 Understanding Roadrunner Email Setup
-Roadrunner email utilizes IMAP (Internet Message Access Protocol) and SMTP (Simple Mail Transfer Protocol) settings to sync **emails across devices**[https://roadrunnermailsupport.com/spectrum-roadrunner-email-settings-guide/
+Roadrunner email utilizes IMAP (Internet Message Access Protocol) and SMTP (Simple Mail Transfer Protocol) settings to sync** **emails across devices****
 ](url). IMAP allows you to access your emails from various devices while keeping them stored on the server, ensuring consistency across platforms. SMTP, on the other hand, handles the outgoing mail server settings, enabling you to send emails through your Roadrunner account.
+[https://roadrunnermailsupport.com/spectrum-roadrunner-email-settings-guide/
 
 **Step-by-Step Setup Guide for Mobile Devices
 **1. Choosing Your Mobile Platform
